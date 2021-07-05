@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nina
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data field
 - 🌱 I’m currently learning Data Science and Machine Learning
 
 
